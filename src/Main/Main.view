@@ -37,7 +37,7 @@ borderTopLeftRadius 6
 borderTopRightRadius 6
 borderBottomLeftRadius 6
 borderBottomRightRadius 6
-paddingLeft 30
+paddingLeft 25
 when <placeholder
 color #8b8b8b
 
