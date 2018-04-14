@@ -36,28 +36,6 @@ justifyContent center
 
 false
 
-Horizontal
-flexBasis auto
-flexGrow 1
-flexShrink 1
-justifyContent space-between
-width 100%
-alignItems center
-Text
-color #323232
-fontFamily Montserrat
-fontSize 18
-fontWeight 400
-text Type something...
-
-Text
-color #323232
-fontFamily Montserrat
-fontSize 18
-fontWeight 400
-text Type something...
-
-
 Vertical
 alignItems center
 flexBasis auto
