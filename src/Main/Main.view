@@ -34,7 +34,7 @@ value <
 width 700
 height 80
 borderTopLeftRadius 8
-borderTopRightRadius 2
+borderTopRightRadius 8
 borderBottomLeftRadius 2
 borderBottomRightRadius 2
 when <placeholder
