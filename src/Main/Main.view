@@ -18,6 +18,7 @@ height 40
 Horizontal
 alignItems center
 justifyContent center
+marginTop 10
 CaptureText
 alignSelf stretch
 borderWidth 1
