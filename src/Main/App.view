@@ -56,6 +56,7 @@ fontFamily Montserrat
 fontSize 18
 fontWeight 400
 text Type something...
+alignSelf center
 
 
 Vertical
