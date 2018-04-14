@@ -1,0 +1,20 @@
+Accountrow Horizontal
+alignItems center
+Text
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+text Current A/c
+
+Percentbutton
+text 25%
+
+Percentbutton
+text 50%
+
+Percentbutton
+text 75%
+
+Percentbutton
+text 100%
