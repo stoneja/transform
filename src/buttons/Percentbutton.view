@@ -12,7 +12,7 @@ marginLeft 10
 alignItems center
 justifyContent center
 onClick <
-backgroundColor #ffaa00
+backgroundColor white
 Text
 color #323232
 fontFamily Montserrat
