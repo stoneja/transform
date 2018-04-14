@@ -13,7 +13,7 @@ alignItems center
 justifyContent center
 onClick <
 when <isselected
-borderColor rgba(49, 130, 0, 0.74)
+borderColor #318200
 Text
 color #323232
 fontFamily Montserrat
