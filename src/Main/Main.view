@@ -13,6 +13,7 @@ backgroundImage https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd
 
 Image
 source ./ulsterbank-logo.gif
+height 40
 
 Vertical
 alignItems center
