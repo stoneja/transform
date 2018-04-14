@@ -6,5 +6,4 @@ flexShrink 1
 justifyContent center
 Vertical
 alignItems center
-flexBasis auto
 justifyContent center
