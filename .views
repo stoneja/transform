@@ -16,5 +16,11 @@
   "height": 800,
   "isLight": false,
   "direction": "row"
+ },
+ "Accountrow": {
+  "width": 1280,
+  "height": 800,
+  "isLight": false,
+  "direction": "row"
  }
 }
