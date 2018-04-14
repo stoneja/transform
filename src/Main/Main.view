@@ -43,3 +43,4 @@ justifyContent center
 backgroundColor #ff4700
 width 100
 height 40
+marginLeft 10
