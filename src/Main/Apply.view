@@ -23,5 +23,4 @@ justifyContent center
 
 Horizontal
 alignItems center
-flexBasis auto
 justifyContent center
