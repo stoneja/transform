@@ -36,7 +36,7 @@ justifyContent center
 
 false
 
-Vertical
+Horizontal
 alignItems flex-start
 flexBasis auto
 flexGrow 1
