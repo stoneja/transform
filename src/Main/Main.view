@@ -47,7 +47,7 @@ flexBasis auto
 flexGrow 1
 flexShrink 1
 justifyContent center
-backgroundColor #0045ff
+backgroundColor #004eff
 marginLeft 10
 paddingBottom 10
 paddingLeft 10
