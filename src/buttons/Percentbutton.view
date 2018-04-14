@@ -11,6 +11,7 @@ width 100
 marginLeft 10
 alignItems center
 justifyContent center
+backgroundColor #ffaa00
 Text
 color #323232
 fontFamily Montserrat
