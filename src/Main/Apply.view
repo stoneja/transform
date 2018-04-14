@@ -20,12 +20,12 @@ fontWeight 400
 text Current A/c
 
 Percentbutton
+text 25%
+
+Percentbutton
 
 Percentbutton
 text 50%
-
-Percentbutton
-text 25%
 
 
 
