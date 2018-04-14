@@ -28,7 +28,7 @@ color #323232
 fontFamily Montserrat
 fontSize 18
 fontWeight 400
-placeholder Welcome, How much do want to borrow and what is it for?
+placeholder Welcome, how much do want to borrow and what is it for?
 onChange <
 value <
 width 700
