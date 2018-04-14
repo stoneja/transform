@@ -43,4 +43,5 @@ justifyContent center
 backgroundColor #ff4700
 marginLeft 10
 paddingBottom 10
+paddingLeft 10
 SearchIconSvg
