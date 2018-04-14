@@ -9,6 +9,7 @@ alignItems center
 justifyContent center
 width 100
 height 40
+backgroundImage https://viewstools.s3.amazonaws.com/image-placeholder.jpg
 
 Image
 source ../image-placeholder.jpg
