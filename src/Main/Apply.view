@@ -12,6 +12,13 @@ flexShrink 1
 backgroundColor #ffffff
 Accountrow
 
+Text
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+text Type something...
+
 
 Vertical
 alignItems center
