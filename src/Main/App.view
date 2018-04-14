@@ -12,12 +12,4 @@ flexBasis auto
 flexShrink 1
 justifyContent flex-start
 flexGrow 1
-Text
-color #323232
-fontFamily Montserrat
-fontSize 18
-fontWeight 400
-text Assets
-alignSelf unnsafe center
-
 false
