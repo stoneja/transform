@@ -20,7 +20,6 @@ text Current A/c
 
 Vertical
 alignItems center
-flexBasis auto
 justifyContent center
 Text
 color #323232
