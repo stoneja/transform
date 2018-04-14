@@ -16,7 +16,7 @@ Assets Vertical
 alignItems flex-start
 flexBasis auto
 flexShrink 1
-justifyContent center
+justifyContent flex-start
 flexGrow 1
 Text
 color #323232
