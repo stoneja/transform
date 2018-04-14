@@ -2,7 +2,6 @@ Apply Vertical
 flexGrow 1
 backgroundColor #ffaa00
 Horizontal
-alignItems center
 flexBasis auto
 flexGrow 1
 flexShrink 1
