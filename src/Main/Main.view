@@ -12,7 +12,7 @@ height 40
 backgroundImage https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwjiod6brrraAhUsIsAKHdjhAX8QjRx6BAgAEAU&url=http%3A%2F%2Fwww.broadsheet.ie%2F2012%2F07%2F02%2Fdear-ulster-bank-customers%2F&psig=AOvVaw3b93AREmwev3Etu1sJHBED&ust=1523815755817460
 
 Image
-source https://www.google.com/imgres?imgurl=http%3A%2F%2Fcf.broadsheet.ie%2Fwp-content%2Fuploads%2F2012%2F07%2Fulsterbank-logo.gif&imgrefurl=http%3A%2F%2Fwww.broadsheet.ie%2F2012%2F07%2F02%2Fdear-ulster-bank-customers%2F&docid=DxbpZlfBHB-srM&tbnid=1NbnyptCNmefOM%3A&vet=10ahUKEwjw29OXrrraAhXsJMAKHQJzCNsQMwgxKAMwAw..i&w=2438&h=305&hl=xx-elmer&bih=943&biw=1462&q=ulster%20bank&ved=0ahUKEwjw29OXrrraAhXsJMAKHQJzCNsQMwgxKAMwAw&iact=mrc&uact=8
+source ./
 width 250
 height 250
 
