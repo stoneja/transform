@@ -33,6 +33,8 @@ onChange <
 value <
 width 350
 height 80
+when <placeholder
+color #323232
 
 Button Horizontal
 alignItems center
