@@ -13,7 +13,7 @@ justifyContent center
 flexGrow 1
 
 Assets Vertical
-alignItems center
+alignItems flex-start
 flexBasis auto
 flexShrink 1
 justifyContent center
