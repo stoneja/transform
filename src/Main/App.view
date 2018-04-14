@@ -83,19 +83,6 @@ placeholder Waiting for your input...
 onChange <
 value <
 
-CaptureText
-alignSelf stretch
-borderWidth 1
-borderStyle solid
-borderColor #323232
-color #323232
-fontFamily Montserrat
-fontSize 18
-fontWeight 400
-placeholder Waiting for your input...
-onChange <
-value <
-
 Vertical
 alignItems center
 flexBasis auto
