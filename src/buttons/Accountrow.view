@@ -6,7 +6,7 @@ color #323232
 fontFamily Montserrat
 fontSize 18
 fontWeight 400
-text < Current A/c
+text < Current A/c 1
 
 Percentbutton
 text 25%
