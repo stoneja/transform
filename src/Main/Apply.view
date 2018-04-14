@@ -13,7 +13,6 @@ backgroundColor #ff00e9
 Horizontal
 alignItems center
 flexBasis auto
-flexShrink 1
 justifyContent center
 Text
 color #323232
