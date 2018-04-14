@@ -21,6 +21,7 @@ text Current A/c
 Vertical
 alignItems center
 justifyContent center
+paddingBottom 10
 Text
 color #323232
 fontFamily Montserrat
