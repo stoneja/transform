@@ -35,7 +35,7 @@ width 700
 height 80
 borderTopLeftRadius 8
 borderTopRightRadius 8
-borderBottomLeftRadius 2
+borderBottomLeftRadius 6
 borderBottomRightRadius 2
 when <placeholder
 color #8b8b8b
