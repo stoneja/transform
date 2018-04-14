@@ -42,6 +42,7 @@ flexGrow 1
 flexShrink 1
 justifyContent space-between
 width 100%
+alignItems center
 Text
 color #323232
 fontFamily Montserrat
