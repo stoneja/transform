@@ -6,13 +6,6 @@ flexBasis auto
 justifyContent flex-start
 backgroundColor rgba(255, 255, 255, 0)
 width 100%
-Vertical
-alignItems center
-flexBasis auto
-flexShrink 1
-justifyContent center
-flexGrow 1
-
 Assets Vertical
 alignItems flex-start
 flexBasis auto
