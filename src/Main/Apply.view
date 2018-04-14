@@ -23,7 +23,7 @@ flexShrink 1
 justifyContent center
 
 
-Vertical
+Horizontal
 alignItems center
 flexBasis auto
 flexGrow 1
