@@ -20,3 +20,9 @@ alignItems center
 justifyContent center
 width 100
 height 40
+Text
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+text Type something...
