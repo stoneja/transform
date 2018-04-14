@@ -33,7 +33,7 @@ value <
 width 350
 height 80
 
-Horizontal
+Button Horizontal
 alignItems center
 flexBasis auto
 flexGrow 1
