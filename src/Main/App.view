@@ -60,7 +60,6 @@ fontWeight 400
 placeholder aas
 onChange <
 value <
-text Type text...
 
 Vertical
 alignItems center
