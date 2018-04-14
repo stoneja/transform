@@ -48,4 +48,5 @@ paddingRight 10
 paddingTop 10
 borderTopLeftRadius 2
 borderTopRightRadius 2
+borderBottomLeftRadius 2
 SearchIconSvg
