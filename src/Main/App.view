@@ -6,5 +6,5 @@ flexBasis auto
 justifyContent center
 backgroundColor #9e00ff
 Text
-fontSize 18
+fontSize 80
 text < 1 2 3 testing
