@@ -21,7 +21,6 @@ text Current A/c
 Vertical
 alignItems center
 justifyContent center
-paddingRight 20
 paddingTop 20
 Text
 color #323232
