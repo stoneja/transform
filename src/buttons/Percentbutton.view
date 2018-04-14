@@ -4,6 +4,7 @@ justifyContent center
 width 80
 height 80
 borderColor #ffaa00
+borderWidth 1
 Text
 color #323232
 fontFamily Montserrat
