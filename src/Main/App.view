@@ -20,6 +20,13 @@ justifyContent center
 flexGrow 1
 false
 
+Text
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+text Type something...
+
 Vertical
 alignItems center
 flexBasis auto
