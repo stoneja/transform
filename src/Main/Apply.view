@@ -1,5 +1,6 @@
 Apply Horizontal
 flexGrow 1
+backgroundColor #ffaa00
 Vertical
 alignItems center
 flexBasis auto
