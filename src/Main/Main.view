@@ -46,7 +46,7 @@ paddingBottom 10
 paddingLeft 10
 paddingRight 10
 paddingTop 10
-borderTopLeftRadius 2
+borderTopLeftRadius 4
 borderTopRightRadius 2
 borderBottomLeftRadius 2
 borderBottomRightRadius 2
