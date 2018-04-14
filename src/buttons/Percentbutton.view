@@ -15,6 +15,7 @@ onClick <
 backgroundColor white
 when <isselected
 borderColor #1d6807
+backgroundColor white
 Text
 color #323232
 fontFamily Montserrat
