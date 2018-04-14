@@ -19,7 +19,7 @@ Vertical
 alignItems center
 justifyContent center
 width 250
-height 40
+height 100
 CaptureText
 alignSelf stretch
 borderWidth 1
