@@ -9,7 +9,7 @@ Vertical
 flexBasis auto
 flexGrow 1
 flexShrink 1
-backgroundColor #fffefd
+backgroundColor #ffffff
 Horizontal
 alignItems center
 Text
