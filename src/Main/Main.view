@@ -15,7 +15,7 @@ Image
 source ./ulsterbank-logo.gif
 height 40
 
-Vertical
+Horizontal
 alignItems center
 justifyContent center
 CaptureText
