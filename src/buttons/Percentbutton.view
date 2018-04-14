@@ -1,0 +1,11 @@
+Percentbutton Vertical
+alignItems center
+justifyContent center
+width 80
+height 80
+Text
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+text 25%
