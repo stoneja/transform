@@ -33,7 +33,7 @@ onChange <
 value <
 width 700
 height 80
-borderTopLeftRadius 2
+borderTopLeftRadius 8
 borderTopRightRadius 2
 borderBottomLeftRadius 2
 borderBottomRightRadius 2
