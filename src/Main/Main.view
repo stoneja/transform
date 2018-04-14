@@ -7,7 +7,7 @@ justifyContent center
 Image
 source ./ulsterbank-logo.gif
 height 40
-marginBottom 10
+marginBottom 40
 
 Horizontal
 alignItems center
