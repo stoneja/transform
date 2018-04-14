@@ -47,7 +47,7 @@ flexBasis auto
 flexGrow 1
 flexShrink 1
 justifyContent center
-backgroundColor rgba(0, 24, 74, 0.98)
+backgroundColor rgba(0, 22, 67, 0.98)
 marginLeft 10
 paddingBottom 10
 paddingLeft 10
