@@ -22,6 +22,7 @@ Vertical
 alignItems center
 justifyContent center
 paddingBottom 10
+paddingLeft 10
 Text
 color #323232
 fontFamily Montserrat
