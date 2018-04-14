@@ -6,6 +6,7 @@ height 80
 borderColor #ffaa00
 borderWidth 1
 borderStyle solid
+borderTopLeftRadius 2
 Text
 color #323232
 fontFamily Montserrat
