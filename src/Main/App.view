@@ -4,7 +4,7 @@ flexGrow 1
 flexShrink 1
 flexBasis auto
 justifyContent center
-backgroundColor #f2f9ff
+backgroundColor #ffffff
 Vertical
 alignItems center
 flexBasis auto
