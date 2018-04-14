@@ -9,13 +9,26 @@ fontWeight 400
 text < Current A/c 1
 
 Percentbutton
+isSelected <is0
+onClick <select0
+text 0%
+
+Percentbutton
+isSelected <is25
+onClick <select25
 text 25%
 
 Percentbutton
+isSelected <is50
+onClick <select50
 text 50%
 
 Percentbutton
+isSelected <is75
+onClick <select75
 text 75%
 
 Percentbutton
+isSelected <is100
+onClick <select100
 text 100%
