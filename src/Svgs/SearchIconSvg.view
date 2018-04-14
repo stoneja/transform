@@ -1,0 +1,26 @@
+SearchIconSvg Svg
+alignSelf < auto
+marginTop < 0
+marginBottom < 0
+marginLeft < 0
+marginRight < 0
+width 50
+height 50
+viewBox 0 0 50 50
+SvgCircle
+cx 17.5
+cy 17.5
+r 15.5
+stroke < #979797
+strokeWidth 5
+fill < none
+fillRule evenodd
+
+SvgPath
+d M28.406 27.412l12.201 13.19
+strokeLinecap square
+stroke < #979797
+strokeWidth 5
+fill < none
+fillRule evenodd
+
