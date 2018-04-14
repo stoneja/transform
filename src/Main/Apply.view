@@ -10,7 +10,7 @@ flexBasis auto
 flexGrow 1
 flexShrink 1
 backgroundColor #ff00e9
-Vertical
+Horizontal
 alignItems center
 flexBasis auto
 flexGrow 1
