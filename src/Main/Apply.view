@@ -12,7 +12,6 @@ flexShrink 1
 backgroundColor #ff00e9
 Horizontal
 alignItems center
-flexBasis auto
 justifyContent center
 Text
 color #323232
