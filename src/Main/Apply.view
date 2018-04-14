@@ -21,7 +21,7 @@ text Current A/c
 Vertical
 alignItems center
 justifyContent center
-width 100
+width 80
 height 80
 Text
 color #323232
