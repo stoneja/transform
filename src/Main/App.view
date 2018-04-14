@@ -58,7 +58,7 @@ color #323232
 fontFamily Montserrat
 fontSize 18
 fontWeight 400
-placeholder aas
+placeholder ....type here
 onChange <
 value <
 text ssss
