@@ -8,3 +8,4 @@ backgroundColor #9e00ff
 Text
 fontSize 80
 text < 1 2 3 testing
+fontFamily Montserrat
