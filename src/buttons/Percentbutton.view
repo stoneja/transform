@@ -1,6 +1,6 @@
 Percentbutton Vertical
 height 80
-borderColor #eaeaea
+borderColor #ececec
 borderWidth 1
 borderStyle solid
 borderTopLeftRadius 6
