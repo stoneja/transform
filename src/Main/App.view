@@ -15,3 +15,15 @@ Text
 fontSize 80
 text < 1 2 3 testing
 fontFamily Montserrat
+
+
+Vertical
+alignItems center
+flexBasis auto
+flexShrink 1
+justifyContent center
+flexGrow 1
+Text
+fontSize 80
+text < 1 2 3 testing
+fontFamily Montserrat
