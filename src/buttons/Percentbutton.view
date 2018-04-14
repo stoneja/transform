@@ -11,7 +11,6 @@ width 80
 marginLeft 10
 alignItems center
 justifyContent center
-onClick <
 Text
 color #323232
 fontFamily Montserrat
