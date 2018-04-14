@@ -10,6 +10,11 @@ justifyContent center
 width 100
 height 40
 
+Image
+source ../image-placeholder.jpg
+width 250
+height 250
+
 Vertical
 alignItems center
 justifyContent center
