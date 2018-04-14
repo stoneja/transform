@@ -58,4 +58,4 @@ borderTopRightRadius 6
 borderBottomLeftRadius 6
 borderBottomRightRadius 6
 SearchIconSvg
-fill none
+fill white
