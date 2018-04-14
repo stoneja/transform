@@ -22,3 +22,5 @@ fontFamily Montserrat
 fontSize 18
 fontWeight 400
 text < 25%
+when <isselected
+color #323232
