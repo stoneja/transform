@@ -14,7 +14,7 @@ justifyContent center
 onClick <
 backgroundColor white
 when <isselected
-borderColor #48df1d
+borderColor #41df14
 Text
 color #323232
 fontFamily Montserrat
