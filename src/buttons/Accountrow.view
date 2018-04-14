@@ -1,6 +1,6 @@
 Accountrow Horizontal
 alignItems center
-marginTop 10
+marginTop 20
 Text
 color #323232
 fontFamily Montserrat
