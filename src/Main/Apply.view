@@ -15,7 +15,6 @@ backgroundColor #ff00e9
 
 Vertical
 alignItems center
-flexBasis auto
 justifyContent center
 width 300
 
