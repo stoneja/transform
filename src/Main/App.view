@@ -25,6 +25,7 @@ fontFamily Montserrat
 fontSize 18
 fontWeight 400
 text Assets
+alignSelf center
 
 Vertical
 alignItems center
