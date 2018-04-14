@@ -34,7 +34,7 @@ value <
 width 700
 height 80
 when <placeholder
-color #323232
+color #8b8b8b
 
 Button Horizontal
 alignItems center
