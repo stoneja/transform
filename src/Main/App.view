@@ -5,6 +5,12 @@ flexShrink 1
 flexBasis auto
 justifyContent center
 backgroundColor #9e00ff
+Vertical
+alignItems center
+flexBasis auto
+flexGrow 1
+flexShrink 1
+justifyContent center
 Text
 fontSize 80
 text < 1 2 3 testing
