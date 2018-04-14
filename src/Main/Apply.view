@@ -11,6 +11,7 @@ flexGrow 1
 flexShrink 1
 backgroundColor #ff00e9
 Horizontal
+alignItems center
 Text
 color #323232
 fontFamily Montserrat
