@@ -18,14 +18,14 @@ flexBasis auto
 flexShrink 1
 justifyContent center
 flexGrow 1
-false
-
 Text
 color #323232
 fontFamily Montserrat
 fontSize 18
 fontWeight 400
 text Assets
+
+false
 
 Vertical
 alignItems center
