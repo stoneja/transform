@@ -1,5 +1,4 @@
 App Vertical
-alignItems flex-start
 flexGrow 1
 flexShrink 1
 flexBasis auto
