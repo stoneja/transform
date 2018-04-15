@@ -63,12 +63,12 @@ onWhen <isOptIn
 alignItems center
 justifyContent center
 height 100
+DocCard
+
 Customer
 givenName < Summer
 familyName < Winters
 
-
-DocCard
 
 DocCard
 text Charge over cash agreement
