@@ -49,7 +49,6 @@ fontFamily Montserrat
 fontSize 18
 fontWeight 400
 text 24a Galway Street, Dublin
-width 350
 
 OptIn
 onClick <toggleOptIn
