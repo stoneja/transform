@@ -54,8 +54,6 @@ fontWeight 400
 text 24a Galway Street, Dublin
 width 350
 
-Percentbutton
-
 
 OptIn
 onClick <toggleOptIn
