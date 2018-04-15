@@ -6,6 +6,7 @@ flexBasis auto
 flexGrow 1
 flexShrink 1
 paddingBottom 10
+paddingLeft 10
 Vertical
 flexBasis auto
 flexGrow 1
