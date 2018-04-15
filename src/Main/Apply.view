@@ -58,7 +58,6 @@ text The bottom line
 Vertical
 alignItems center
 flexBasis auto
-flexShrink 1
 justifyContent center
 
 List
