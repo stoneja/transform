@@ -63,10 +63,10 @@ onWhen <isOptIn
 alignItems center
 justifyContent center
 height 100
-
 Customer
 givenName < Summer
 familyName < Winters
+
 
 DocCard
 
