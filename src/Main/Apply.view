@@ -58,6 +58,13 @@ text The bottom line
 Vertical
 alignItems center
 justifyContent center
+Text
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+text Type something...
+
 
 List
 flexDirection row
