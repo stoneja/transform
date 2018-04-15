@@ -8,6 +8,7 @@ borderBottomLeftRadius 6
 borderBottomRightRadius 6
 borderTopLeftRadius 6
 borderColor #ffaa00
+marginLeft 10
 Text
 text < 1.5
 marginLeft 10
