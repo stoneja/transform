@@ -3,6 +3,7 @@ flexBasis auto
 flexGrow 1
 flexShrink 1
 justifyContent center
+alignItems center
 Customer Horizontal
 alignSelf flex-end
 marginRight 50
