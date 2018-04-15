@@ -21,7 +21,8 @@ const format = makeFormat({ truncate: 2 })
 const getScores = ({ from }) => {
   return from.map((number, index) => ({
     id: index,
-    text: format(calculateNumber(getChoiceAsNumber(number), index)),
+    title: number.title,
+    number: format(calculateNumber(getChoiceAsNumber(number), index)),
   }))
 }
 
@@ -32,6 +33,7 @@ export default class ApplyLogic extends React.Component {
       {
         id: 'row1',
         text: 'Current A/c 1',
+        title: 'Rate',
         is0: false,
         is25: true,
         is50: false,
@@ -42,6 +44,7 @@ export default class ApplyLogic extends React.Component {
       {
         id: 'row2',
         text: 'Current A/c 2',
+        title: 'Setup fee',
         is0: false,
         is25: false,
         is50: false,
@@ -52,6 +55,7 @@ export default class ApplyLogic extends React.Component {
       {
         id: 'row3',
         text: 'Current A/c 3',
+        title: 'Repayment amount',
         is0: false,
         is25: false,
         is50: false,
