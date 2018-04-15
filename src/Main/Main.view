@@ -6,6 +6,7 @@ alignItems center
 Customer Horizontal
 alignSelf flex-end
 marginRight 50
+marginTop 10
 Text
 text <givenName
 
