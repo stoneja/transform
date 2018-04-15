@@ -7,7 +7,7 @@ fontFamily Montserrat
 fontSize 18
 fontWeight 400
 text < Current A/c 1
-width 100
+width 200
 
 Percentbutton
 isSelected <is0 is0
