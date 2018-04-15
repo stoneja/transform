@@ -1,5 +1,6 @@
 Score Vertical
 backgroundColor #ccffcb
+width 100
 Text
 text < 1.5
 marginLeft 10
