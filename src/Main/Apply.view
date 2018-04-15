@@ -74,6 +74,7 @@ width 280
 backgroundColor #ffffff
 borderTopLeftRadius 2
 borderTopRightRadius 2
+borderBottomLeftRadius 2
 Text
 color #323232
 fontFamily Montserrat
