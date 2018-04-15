@@ -56,8 +56,6 @@ width 350
 
 Percentbutton
 
-Percentbutton
-
 
 OptIn
 onClick <toggleOptIn
