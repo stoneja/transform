@@ -3,17 +3,7 @@ flexBasis auto
 flexGrow 1
 flexShrink 1
 alignItems center
-Customer Horizontal
-alignSelf flex-end
-marginRight 50
-marginTop 20
-Text
-text <givenName Summer
-
-Text
-marginLeft 4
-text <familyName Winters
-
+Customer
 
 Image
 source ./ulsterbank-logo.gif
