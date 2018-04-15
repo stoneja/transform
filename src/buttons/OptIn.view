@@ -7,7 +7,7 @@ borderTopLeftRadius 6
 borderTopRightRadius 8
 borderBottomLeftRadius 6
 borderBottomRightRadius 6
-width 80
+width 100
 marginLeft < 10
 alignItems center
 justifyContent center
