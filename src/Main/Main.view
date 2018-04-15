@@ -19,7 +19,7 @@ Image
 source ./ulsterbank-logo.gif
 height 40
 marginTop 40
-marginBottom 100
+marginBottom 40
 
 Horizontal
 alignItems center
