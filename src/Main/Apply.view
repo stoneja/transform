@@ -72,7 +72,7 @@ alignItems center
 justifyContent center
 width 280
 backgroundColor #ffffff
-borderTopLeftRadius 2
+borderTopLeftRadius 6
 borderTopRightRadius 2
 borderBottomLeftRadius 2
 borderBottomRightRadius 2
