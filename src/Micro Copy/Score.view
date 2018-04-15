@@ -8,7 +8,6 @@ borderBottomLeftRadius 6
 borderBottomRightRadius 6
 borderTopLeftRadius 6
 borderColor #ffaa00
-marginRight 10
 marginLeft 10
 alignItems center
 Text
