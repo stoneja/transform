@@ -53,7 +53,7 @@ color #323232
 fontFamily Montserrat
 fontSize 18
 fontWeight 400
-text The bottom line
+text The bottom line - Do you like how your deal is looking?
 
 List
 flexDirection row
