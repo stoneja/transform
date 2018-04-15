@@ -3,6 +3,7 @@ backgroundColor #ccffcb
 width 250
 height 40
 justifyContent center
+borderTopRightRadius 2
 Text
 text < 1.5
 marginLeft 10
