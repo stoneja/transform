@@ -63,9 +63,6 @@ onWhen <isOptIn
 alignItems center
 justifyContent center
 height 100
-Text
-text opted in... docs...
-
 
 Customer
 givenName < Summer
