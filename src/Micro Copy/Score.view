@@ -10,7 +10,7 @@ borderBottomLeftRadius 6
 marginRight 10
 paddingBottom 10
 paddingLeft 40
-paddingRight 10
+paddingRight 40
 paddingTop 10
 Text
 color #323232
