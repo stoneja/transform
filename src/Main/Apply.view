@@ -89,7 +89,6 @@ text Loan Agreement Document
 
 Vertical
 alignItems center
-flexBasis auto
 justifyContent center
 paddingBottom 10
 paddingLeft 10
