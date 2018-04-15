@@ -42,7 +42,6 @@ paddingBottom 20
 
 
 Horizontal
-alignItems center
 justifyContent center
 Text
 color #323232
