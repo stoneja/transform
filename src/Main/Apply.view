@@ -73,7 +73,7 @@ justifyContent center
 width 280
 backgroundColor #ffffff
 borderTopLeftRadius 6
-borderTopRightRadius 2
+borderTopRightRadius 6
 borderBottomLeftRadius 2
 borderBottomRightRadius 2
 Text
