@@ -31,6 +31,7 @@ Horizontal
 alignItems center
 justifyContent center
 width 100
+height 40
 
 OptIn
 onClick <toggleOptIn
