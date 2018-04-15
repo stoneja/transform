@@ -20,15 +20,11 @@ text How much of you account balance can you put aside to get this loan?
 List
 from <
 Accountrow
-<<<<<<< HEAD
-text Main Business Current A/c 
-=======
 select0 <
 select25 <
 select50 <
 select75 <
 select100 <
->>>>>>> d9fa373b3edad232555a8c26d7d497bd18965ea5
 
 
 OptIn
