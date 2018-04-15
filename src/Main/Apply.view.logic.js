@@ -13,7 +13,7 @@ const calculateNumber = (n, index) => {
     : index === 1
       ? n * 9.875
       : index === 2
-        ? (100000 * (1 + n / 9989)) ^ 10
+        ? (900000 * (1 + n / 9989)) ^ 10
         : n
 }
 
@@ -33,7 +33,7 @@ const getVariants = index => {
   switch (index) {
     case 0:
       return {
-        title: 'Rate',
+        title: 'Rate %',
         is0: false,
         is25: true,
         is50: false,
@@ -43,7 +43,7 @@ const getVariants = index => {
 
     case 1:
       return {
-        title: 'Setup fee',
+        title: 'Setup fee €',
         is0: false,
         is25: false,
         is50: false,
@@ -53,7 +53,7 @@ const getVariants = index => {
 
     case 2:
       return {
-        title: 'Repayment amount',
+        title: 'Repayment amount €',
         is0: false,
         is25: false,
         is50: false,
@@ -82,7 +82,7 @@ const getFrom = props =>
 
 class ApplyLogic extends React.Component {
   state = {
-    isOptIn: false,
+    isOptIn: true,
     from: getFrom(this.props),
   }
 
@@ -206,7 +206,7 @@ class ApplyLogic extends React.Component {
 }
 
 const AccountLogic = props => (
-  <CustomerAccounts id={props.customer.id}>
+  <CustomerAccounts id={props.customer && props.customer.id}>
     {({ data, error, fetching }) => {
       if (fetching) return <Spinner width="100%" />
 
