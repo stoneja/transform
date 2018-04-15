@@ -1,24 +1,27 @@
 import React from 'react'
 import Apply from './Apply.view.js'
+import makeFormat from 'format-number'
 
 const getChoiceAsNumber = ({ is0, is25, is50, is75, is100 }) =>
   is100 ? 100 : is75 ? 75 : is50 ? 50 : is25 ? 25 : 0
 
 const calculateNumber = (n, index) => {
 return index === 0?
-	(100 - n) / 10:
+	((100 - n) / 10)*1.05:
 	index === 1?
-	n * 10:
+	n * 9.875:
 	index === 2?
-	n * 10000 : n
+	100000*(1+(n/9989))^10 : n
 
 }
+
+const format = makeFormat({ truncate: 2 })
 
 
 const getScores = ({ from }) => {
   return from.map((number, index) => ({
     id: index,
-    text: calculateNumber(getChoiceAsNumber(number), index),
+    text: format(calculateNumber(getChoiceAsNumber(number), index)),
   }))
 }
 
