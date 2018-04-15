@@ -1,3 +1,5 @@
+import { CustomerAccounts } from '../BlueBank.js'
+import Spinner from './Spinner.js'
 import React from 'react'
 import Apply from './Apply.view.js'
 import makeFormat from 'format-number'
@@ -6,63 +8,88 @@ const getChoiceAsNumber = ({ is0, is25, is50, is75, is100 }) =>
   is100 ? 100 : is75 ? 75 : is50 ? 50 : is25 ? 25 : 0
 
 const calculateNumber = (n, index) => {
-return index === 0?
-	((100 - n) / 10)*1.05:
-	index === 1?
-	n * 9.875:
-	index === 2?
-	100000*(1+(n/9989))^10 : n
-
+  return index === 0
+    ? (100 - n) / 10 * 1.05
+    : index === 1
+      ? n * 9.875
+      : index === 2
+        ? (100000 * (1 + n / 9989)) ^ 10
+        : n
 }
 
 const format = makeFormat({ truncate: 2 })
 
-
 const getScores = ({ from }) => {
-  return from.map((number, index) => ({
-    id: index,
-    title: number.title,
-    number: format(calculateNumber(getChoiceAsNumber(number), index)),
-  }))
+  return from
+    .map((number, index) => ({
+      id: index,
+      title: number.title,
+      number: format(calculateNumber(getChoiceAsNumber(number), index)),
+    }))
+    .filter(item => item.title)
 }
 
-export default class ApplyLogic extends React.Component {
-  state = {
-    isOptIn: false,
-    from: [
-      {
-        id: 'row1',
-        text: 'Current A/c 1',
+const getVariants = index => {
+  switch (index) {
+    case 0:
+      return {
         title: 'Rate',
         is0: false,
         is25: true,
         is50: false,
         is75: false,
         is100: false,
-      },
+      }
 
-      {
-        id: 'row2',
-        text: 'Current A/c 2',
+    case 1:
+      return {
         title: 'Setup fee',
         is0: false,
         is25: false,
         is50: false,
         is75: true,
         is100: false,
-      },
+      }
 
-      {
-        id: 'row3',
-        text: 'Current A/c 3',
+    case 2:
+      return {
         title: 'Repayment amount',
         is0: false,
         is25: false,
         is50: false,
         is75: false,
         is100: true,
-      },
-    ],
+      }
+
+    default:
+      return {
+        title: null,
+        is0: false,
+        is25: false,
+        is50: false,
+        is75: false,
+        is100: true,
+      }
+  }
+}
+
+const getFrom = props =>
+  props.accounts.map((account, index) => ({
+    id: account.id,
+    text: `${account.accountFriendlyName} (€ ${account.accountBalance})`,
+    ...getVariants(index),
+  }))
+
+class ApplyLogic extends React.Component {
+  state = {
+    isOptIn: false,
+    from: getFrom(this.props),
+  }
+
+  static getDerivedStateFromProps(next) {
+    return {
+      from: getFrom(next),
+    }
   }
 
   select0 = id => {
@@ -157,7 +184,7 @@ export default class ApplyLogic extends React.Component {
 
   toggleOptIn = () => {
     this.setState({
-      isOptIn: !this.state.isOptIn
+      isOptIn: !this.state.isOptIn,
     })
   }
 
@@ -177,3 +204,34 @@ export default class ApplyLogic extends React.Component {
     )
   }
 }
+
+const AccountLogic = props => (
+  <CustomerAccounts id={props.customer.id}>
+    {({ data, error, fetching }) => {
+      if (fetching) return <Spinner width="100%" />
+
+      const accounts =
+        data && data.results
+          ? data.results
+          : [
+              {
+                id: 1,
+                accountFriendlyName: 'Current A/c 1',
+                accountBalance: 5010,
+              },
+              {
+                id: 2,
+                accountFriendlyName: 'Current A/c 2',
+                accountBalance: 15300,
+              },
+              {
+                id: 3,
+                accountFriendlyName: 'Current A/c 3',
+                accountBalance: 34020,
+              },
+            ]
+      return <ApplyLogic {...props} accounts={accounts} />
+    }}
+  </CustomerAccounts>
+)
+export default AccountLogic

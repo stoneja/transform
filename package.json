@@ -5,12 +5,14 @@
   "dependencies": {
     "emotion": "^9.1.1",
     "format-number": "^3.0.0",
+    "holen": "^2.0.1",
     "prop-types": "^15.6.1",
     "react": "^16.3.1",
     "react-dom": "^16.3.1",
     "react-emotion": "^9.1.1",
     "react-router-dom": "^4.2.2",
-    "react-scripts": "1.1.4"
+    "react-scripts": "1.1.4",
+    "react-spinners": "^0.3.2"
   },
   "scripts": {
     "start": "concurrently \"npm run dev\" \"npm run views\"",

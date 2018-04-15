@@ -5,7 +5,9 @@ flexBasis auto
 backgroundColor rgba(255, 255, 255, 0)
 Main
 onWhen <isMain
+customer <
 onClick <next
 
 Apply
 onWhen <isApply
+customer <

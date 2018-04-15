@@ -4,9 +4,19 @@ flexBasis auto
 flexGrow 1
 flexShrink 1
 justifyContent center
+Customer Horizontal
+Text
+text <givenName
+
+Text
+marginLeft 4
+text <familyName
+
+
 Image
 source ./ulsterbank-logo.gif
 height 40
+marginTop 40
 marginBottom 40
 
 Horizontal
