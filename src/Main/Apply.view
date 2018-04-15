@@ -4,7 +4,6 @@ shadowBlur 20
 shadowSpread 0
 shadowColor rgba(100,150,180,0.2)
 shadowOffsetX 0
-shadowOffsetY -10
 Horizontal
 flexBasis auto
 flexGrow 1
