@@ -55,7 +55,7 @@ fontSize 18
 fontWeight 400
 text The bottom line
 
-Vertical
+Horizontal
 alignItems center
 justifyContent center
 Text
