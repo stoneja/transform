@@ -10,7 +10,7 @@ flexGrow 1
 flexShrink 1
 backgroundColor #ffffff
 paddingLeft 50
-paddingTop 10
+paddingTop 50
 Text
 color #323232
 fontFamily Montserrat
