@@ -71,6 +71,7 @@ text opted in... docs...
 
 
 Vertical
+paddingLeft 10
 Text
 color #323232
 fontFamily Montserrat
