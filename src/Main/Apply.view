@@ -17,20 +17,42 @@ fontSize 18
 fontWeight 400
 text How much of you account balance can you put aside to get this loan?
 
+List
+from <
 Accountrow
+<<<<<<< HEAD
 text Main Business Current A/c 
+=======
+select0 <
+select25 <
+select50 <
+select75 <
+select100 <
+>>>>>>> d9fa373b3edad232555a8c26d7d497bd18965ea5
 
-Accountrow
-text Current A/c 2
+
+OptIn
+onClick <toggleOptIn
+isSelected <isOptIn
+text Opt in
 
 
 Vertical
 alignItems center
 justifyContent center
 width 300
-
-
 Horizontal
+onWhen <isOptIn
 alignItems center
 justifyContent center
 height 100
+Text
+text opted in... docs...
+
+
+
+
+List
+flexDirection row
+from <scores
+Score
