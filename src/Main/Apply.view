@@ -69,7 +69,7 @@ text opted in... docs...
 
 Customer
 givenName < Sum
-familyName Winters
+familyName < Winters
 
 DocCard
 
