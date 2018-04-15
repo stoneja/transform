@@ -25,6 +25,7 @@ fontFamily Montserrat
 fontSize 14
 fontWeight 400
 text Sourced from: www.landregistry.ie
+paddingTop 10
 
 Vertical
 alignItems center
