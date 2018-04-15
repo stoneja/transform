@@ -78,6 +78,7 @@ shadowOffsetX 0
 shadowOffsetY 5
 borderTopColor #ffaa00
 borderTopWidth 1
+borderTopStyle solid
 Text
 color #323232
 fontFamily Montserrat
