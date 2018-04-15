@@ -10,6 +10,7 @@ borderTopLeftRadius 6
 borderColor #ffaa00
 marginRight 10
 marginLeft 10
+alignItems center
 Text
 text < 1.5
 marginLeft 10
