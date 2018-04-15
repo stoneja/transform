@@ -84,7 +84,6 @@ fontFamily Montserrat
 fontSize 18
 fontWeight 400
 text The bottom line, do you like how your deal is looking?
-paddingBottom 10
 
 List
 flexDirection row
