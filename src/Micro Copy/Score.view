@@ -1,6 +1,5 @@
 Score Vertical
 backgroundColor #c6ffc6
-width 250
 height 40
 justifyContent center
 borderTopRightRadius 6
