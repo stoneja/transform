@@ -58,7 +58,7 @@ Vertical
 alignItems center
 justifyContent center
 width 300
-backgroundColor #f0f0f0
+backgroundColor #ececec
 Horizontal
 onWhen <isOptIn
 alignItems center
