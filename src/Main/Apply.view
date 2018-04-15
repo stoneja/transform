@@ -15,6 +15,15 @@ color #323232
 fontFamily Montserrat
 fontSize 18
 fontWeight 400
+text Do you want to allow a charge over any of your existing properties?
+paddingBottom 20
+marginTop 60
+
+Text
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
 text How much of you account balance can you put aside to get this loan?
 
 List
@@ -32,15 +41,6 @@ alignItems center
 justifyContent flex-start
 width 100%
 height 40
-Text
-color #323232
-fontFamily Montserrat
-fontSize 18
-fontWeight 400
-text Do you want to allow a charge over any of your existing properties?
-paddingBottom 20
-marginTop 60
-
 
 Horizontal
 alignItems center
