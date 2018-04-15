@@ -30,6 +30,7 @@ select100 <
 Horizontal
 alignItems center
 justifyContent center
+width 100
 
 OptIn
 onClick <toggleOptIn
