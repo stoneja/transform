@@ -14,7 +14,7 @@ justifyContent center
 onClick <
 backgroundColor white
 when <isSelected
-borderColor #00b96b
+borderColor #00b669
 backgroundColor #1d6807
 Text
 color #323232
