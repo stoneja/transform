@@ -1,5 +1,6 @@
 Apply Vertical
 flexGrow 1
+backgroundColor #ffaa00
 Horizontal
 flexBasis auto
 flexGrow 1
