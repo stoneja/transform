@@ -62,6 +62,8 @@ Vertical
 onWhen <isOptIn
 alignItems center
 justifyContent center
+DocCardOK
+
 DocCard
 text Charge over cash agreement
 
@@ -71,8 +73,6 @@ Customer
 givenName < Summer
 familyName < Winters
 
-
-DocCardOK
 
 
 
