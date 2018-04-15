@@ -11,5 +11,5 @@ alignItems center
 borderBottomRightRadius 2
 borderBottomLeftRadius 2
 Text
-text < 1.5
+text 1.5
 marginLeft 10
