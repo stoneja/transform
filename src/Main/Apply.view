@@ -70,7 +70,6 @@ text opted in... docs...
 
 Vertical
 alignItems center
-flexBasis auto
 justifyContent center
 Text
 color #323232
