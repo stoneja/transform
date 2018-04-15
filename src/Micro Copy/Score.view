@@ -13,3 +13,10 @@ borderBottomLeftRadius 2
 Text
 text 1.5
 marginLeft 10
+
+Text
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+text Type something...
