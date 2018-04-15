@@ -1,6 +1,5 @@
 Apply Vertical
 flexGrow 1
-shadowSpread 0
 shadowColor rgba(100,150,180,0.2)
 Horizontal
 flexBasis auto
