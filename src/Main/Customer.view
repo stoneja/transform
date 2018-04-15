@@ -6,7 +6,7 @@ Text
 text <givenName Sum
 fontFamily Montserrat
 fontSize 12
-color rgba(34, 33, 30, 0.5)
+color rgba(34, 33, 30, 0.51)
 
 Text
 marginLeft 4
