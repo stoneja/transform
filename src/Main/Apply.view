@@ -1,5 +1,6 @@
 Apply Vertical
 flexGrow 1
+shadowBlur 20
 Horizontal
 flexBasis auto
 flexGrow 1
