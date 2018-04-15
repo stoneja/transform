@@ -59,3 +59,10 @@ List
 flexDirection row
 from <scores
 Score
+text 1.5
+
+
+List
+flexDirection row
+from <scores
+Score
