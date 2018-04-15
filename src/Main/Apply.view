@@ -29,7 +29,6 @@ select100 <
 
 Horizontal
 alignItems center
-flexBasis auto
 justifyContent center
 
 OptIn
