@@ -4,10 +4,21 @@ import Apply from './Apply.view.js'
 const getChoiceAsNumber = ({ is0, is25, is50, is75, is100 }) =>
   is100 ? 100 : is75 ? 75 : is50 ? 50 : is25 ? 25 : 0
 
+const calculateNumber = (n, index) => {
+return index === 0?
+	(100 - n) / 10:
+	index === 1?
+	n * 10:
+	index === 2?
+	n * 10000 : n
+
+}
+
+
 const getScores = ({ from }) => {
   return from.map((number, index) => ({
     id: index,
-    text: (100 - getChoiceAsNumber(number)) / 100,
+    text: calculateNumber(getChoiceAsNumber(number), index),
   }))
 }
 
