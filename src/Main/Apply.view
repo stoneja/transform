@@ -58,5 +58,5 @@ text The bottom line - Do you like how your deal is looking?
 List
 flexDirection row
 from <scores
-paddingBottom 30
+paddingBottom 10
 Score
