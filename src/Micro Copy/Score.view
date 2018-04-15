@@ -5,7 +5,7 @@ height 40
 justifyContent center
 borderTopRightRadius 6
 borderBottomLeftRadius 6
-borderBottomRightRadius 2
+borderBottomRightRadius 6
 borderTopLeftRadius 6
 Text
 text < 1.5
