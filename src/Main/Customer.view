@@ -13,4 +13,4 @@ marginLeft 4
 text <familyName Winters
 fontFamily Montserrat
 fontSize 12
-color #ffaa00
+color rgba(34, 33, 30, 0.51)
