@@ -71,6 +71,13 @@ text opted in... docs...
 
 
 Vertical
+List
+flexDirection row
+from <scores
+paddingBottom 10
+Score
+
+
 Text
 color #323232
 fontFamily Montserrat
@@ -78,10 +85,3 @@ fontSize 18
 fontWeight 400
 text The bottom line, do you like how your deal is looking?
 paddingBottom 10
-
-
-List
-flexDirection row
-from <scores
-paddingBottom 10
-Score
