@@ -5,7 +5,7 @@ flexShrink 1
 alignItems center
 Customer
 givenName < Sum
-familyName Winters
+familyName < Winters
 
 Image
 source ./ulsterbank-logo.gif
