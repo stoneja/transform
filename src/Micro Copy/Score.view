@@ -6,7 +6,6 @@ justifyContent center
 borderTopRightRadius 6
 borderTopLeftRadius 6
 borderColor #ffaa00
-marginLeft 35
 alignItems center
 borderBottomRightRadius 6
 borderBottomLeftRadius 6
