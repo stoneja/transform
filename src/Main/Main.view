@@ -62,5 +62,5 @@ borderBottomRightRadius 6
 onClick <
 SearchIconSvg
 stroke white
-width 50
+width 40
 height 50
