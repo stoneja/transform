@@ -48,6 +48,13 @@ text opted in... docs...
 
 
 
+Text
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+text The bottom line
+
 List
 flexDirection row
 from <scores
@@ -60,13 +67,6 @@ flexBasis auto
 flexGrow 1
 flexShrink 1
 justifyContent center
-
-Text
-color #323232
-fontFamily Montserrat
-fontSize 18
-fontWeight 400
-text The bottom line
 
 Vertical
 alignItems center
