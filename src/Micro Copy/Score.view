@@ -9,7 +9,7 @@ borderColor #ffaa00
 marginLeft 35
 alignItems center
 borderBottomRightRadius 2
-borderBottomLeftRadius 2
+borderBottomLeftRadius 6
 Text
 color #323232
 fontFamily Montserrat
