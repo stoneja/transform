@@ -85,6 +85,7 @@ fontSize 18
 fontWeight 400
 text The bottom line, do you like how your deal is looking?
 marginRight 30
+flexGrow 1
 
 List
 flexDirection row
