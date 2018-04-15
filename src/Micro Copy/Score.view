@@ -4,7 +4,7 @@ width 250
 height 40
 justifyContent center
 borderTopRightRadius 6
-borderBottomLeftRadius 2
+borderBottomLeftRadius 6
 borderBottomRightRadius 2
 borderTopLeftRadius 6
 Text
