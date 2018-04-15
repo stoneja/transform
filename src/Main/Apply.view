@@ -38,7 +38,7 @@ fontFamily Montserrat
 fontSize 18
 fontWeight 400
 text Do you want to allow a charge over any of your existing properties?
-paddingBottom 10
+paddingBottom 20
 
 
 Horizontal
