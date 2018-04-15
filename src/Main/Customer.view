@@ -4,6 +4,7 @@ marginRight 50
 marginTop 20
 Text
 text <givenName Sum
+fontFamily Montserrat
 
 Text
 marginLeft 4
