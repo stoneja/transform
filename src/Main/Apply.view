@@ -39,7 +39,7 @@ fontSize 18
 fontWeight 400
 text Do you want to allow a charge over any of your existing properties?
 paddingBottom 20
-marginTop 40
+marginTop 60
 
 
 Horizontal
