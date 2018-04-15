@@ -54,7 +54,7 @@ OptIn
 onClick <toggleOptIn
 isSelected <isOptIn isOptIn
 text Opt in
-marginLeft 10
+marginLeft 30
 
 
 
