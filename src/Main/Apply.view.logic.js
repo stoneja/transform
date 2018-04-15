@@ -7,7 +7,7 @@ const getChoiceAsNumber = ({ is0, is25, is50, is75, is100 }) =>
 const getScores = ({ from }) => {
   return from.map((number, index) => ({
     id: index,
-    text: getChoiceAsNumber(number),
+    text: (100 - getChoiceAsNumber(number)) / 100,
   }))
 }
 
