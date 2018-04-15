@@ -4,7 +4,7 @@ flexGrow 1
 flexShrink 1
 alignItems center
 Customer
-givenName < Sum
+givenName < Summer
 familyName < Winters
 
 Image
