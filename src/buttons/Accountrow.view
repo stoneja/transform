@@ -7,28 +7,29 @@ fontFamily Montserrat
 fontSize 18
 fontWeight 400
 text < Current A/c 1
+width 100
 
 Percentbutton
-isSelected <is0
+isSelected <is0 is0
 onClick <select0
 text 0%
 
 Percentbutton
-isSelected <is25
+isSelected <is25 is25
 onClick <select25
 text 25%
 
 Percentbutton
-isSelected <is50
+isSelected <is50 is50
 onClick <select50
 text 50%
 
 Percentbutton
-isSelected <is75
+isSelected <is75 is75
 onClick <select75
 text 75%
 
 Percentbutton
-isSelected <is100
+isSelected <is100 is100
 onClick <select100
 text 100%
