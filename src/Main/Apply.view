@@ -42,7 +42,6 @@ paddingBottom 20
 
 
 Horizontal
-justifyContent center
 Text
 color #323232
 fontFamily Montserrat
