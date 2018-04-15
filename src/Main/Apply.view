@@ -85,7 +85,7 @@ paddingLeft 50
 paddingTop 20
 paddingBottom 20
 borderTopColor #f0f0f0
-borderTopWidth 1
+borderTopWidth 3
 borderTopStyle solid
 alignItems center
 paddingRight 10
